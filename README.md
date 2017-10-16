@@ -11,11 +11,11 @@ To run the code install the following dependencies
 * numpy
 * pandas
 * dicom
-4. os
-5.matplotlib pyplot
-6.OpenCV
-7.Skimage
-8.scipy
+* os
+* matplotlib pyplot
+* OpenCV
+* Skimage
+* scipy
 
 Run the commands
 ```
