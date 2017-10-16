@@ -10,8 +10,8 @@ Segmentation is done on the 3D image by using image processing algorithms like t
 To run the code install the following dependencies
 * numpy
 * pandas
-*dicom
-4.os
+* dicom
+4. os
 5.matplotlib pyplot
 6.OpenCV
 7.Skimage
