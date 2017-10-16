@@ -58,5 +58,3 @@ GUI is created using the Tkinter module (“Tk interface”) which is the standa
 
 * Kaggle Data Science Bowl https://www.kaggle.com/c/data-science-bowl-2017
 * www.tensorflow.org
-
-![ScreenShot](https://github.com/{nishalpereira}/{CNN-for-Tumour-Classification}/blob/master/screenshot/1.png)
