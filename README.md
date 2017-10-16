@@ -54,9 +54,9 @@ is the addition of a GUI interface. Some of the reasons for using a GUI interfac
 
 GUI is created using the Tkinter module (“Tk interface”) which is the standard Python interface to the Tk GUI toolkit. Both Tk and Tkinter are available on most Unix platforms, as well as on Windows systems.
 
+![Alt text](https://github.com/nishalpereira/CNN-for-Tumour-Classification/blob/master/screenshot/gui.gif?raw=true)
+
 # Ackowledment
 
 * Kaggle Data Science Bowl https://www.kaggle.com/c/data-science-bowl-2017
 * www.tensorflow.org
-
-![Alt text](https://github.com/nishalpereira/CNN-for-Tumour-Classification/blob/master/screenshot/gui.gif?raw=true)
