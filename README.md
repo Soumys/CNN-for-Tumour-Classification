@@ -8,8 +8,8 @@ Each CT scan is 3-dimensional, containing multiple axial slices of the chest cav
 Segmentation is done on the 3D image by using image processing algorithms like thresholding, region growing and morphological operations to separate the lungs from the bones and residual tissues.
 
 To run the code install the following dependencies
-*numpy
-*pandas
+* numpy
+* pandas
 *dicom
 4.os
 5.matplotlib pyplot
