@@ -43,3 +43,13 @@ The network.py code requires Tensorflow library dependencies. This can be instal
 The numpy array is fed as the input to the CNN. The CNN contains two convolution layers immediately after the input layer, followed by a pooling layer, a dropout layer and a fully connected layer. Each convolution layer is in turn followed by a rectified linear output layer and the pooling layer is followed by a Dropout layer.
 
 The network2_saving.py can save the network parameters after training and can restore them at any point.
+
+# Graphical User Interface
+One of the easiest ways to popularise the project for the ease of use of both doctors and laymen alike
+is the addition of a GUI interface. Some of the reasons for using a GUI interface is:
+* GUI allows easy implementation
+* Allows the layman to visualize
+* Allows the doctor to understand the presence of tumors
+* Prediction of tumour as benign or malignant.
+
+GUI is created using the Tkinter module (“Tk interface”) which is the standard Python interface to the Tk GUI toolkit. Both Tk and Tkinter are available on most Unix platforms, as well as on Windows systems.
