@@ -38,3 +38,8 @@ $ pip install scikit-image
 The data preparation code outputs a numpy array containing the 3-d image along with its label for all the patients 
 
 # Running the Convolutional Neural Network
+
+The network.py code requires Tensorflow library dependencies. This can be installed using the instructions provided in https://www.tensorflow.org/install/
+The numpy array is fed as the input to the CNN. The CNN contains two convolution layers immediately after the input layer, followed by a pooling layer, a dropout layer and a fully connected layer. Each convolution layer is in turn followed by a rectified linear output layer and the pooling layer is followed by a Dropout layer.
+
+The network2_saving.py can save the network parameters after training and can restore them at any point.
