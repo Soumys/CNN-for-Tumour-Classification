@@ -18,7 +18,8 @@ To run the code install the following dependencies
 8.scipy
 
 Run the commands
+```
 $ sudo apt-get install python-pip python-dev build-essential 
 $ sudo pip install --upgrade pip 
 $ sudo pip install --upgrade virtualenv 
-
+```
