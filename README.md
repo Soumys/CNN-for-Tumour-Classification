@@ -33,4 +33,8 @@ $ pip install matplotlib
 $ pip install scipy
 $ pip install scikit-image
 ```
-* Installing Opencv using the tutorial given in https://docs.opencv.org/2.4/doc/tutorials/introduction/linux_install/linux_install.html
+* Installing Opencv using the instrcutions given in https://docs.opencv.org/2.4/doc/tutorials/introduction/linux_install/linux_install.html
+
+The data preparation code outputs a numpy array containing the 3-d image along with its label for all the patients 
+
+# Running the Convolutional Neural Network
