@@ -53,3 +53,8 @@ is the addition of a GUI interface. Some of the reasons for using a GUI interfac
 * Prediction of tumour as benign or malignant.
 
 GUI is created using the Tkinter module (“Tk interface”) which is the standard Python interface to the Tk GUI toolkit. Both Tk and Tkinter are available on most Unix platforms, as well as on Windows systems.
+
+# Ackowledment
+
+* Kaggle Data Science Bowl https://www.kaggle.com/c/data-science-bowl-2017
+* www.tensorflow.org
