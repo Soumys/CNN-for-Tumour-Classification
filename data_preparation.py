@@ -10,9 +10,9 @@ from skimage import measure, morphology
 from mpl_toolkits.mplot3d.art3d import Poly3DCollection
 
 
-data_dir ='/media/prajwaljpj/Seagate Backup Plus Drive/databases/LUNA/stage1/'
+data_dir ='/media/nishal/Seagate Backup Plus Drive/databases/LUNA/stage1/'
 patients = os.listdir(data_dir)
-labels = pd.read_csv('/media/prajwaljpj/Seagate Backup Plus Drive/databases/LUNA/stage1/stage1_labels.csv', index_col=0)
+labels = pd.read_csv('/media/nishal/Seagate Backup Plus Drive/databases/LUNA/stage1/stage1_labels.csv', index_col=0)
 
 def load_scan(path):
     slices = [dicom.read_file(path + '/' + s) for s in os.listdir(path)]
