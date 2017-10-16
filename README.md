@@ -11,15 +11,26 @@ To run the code install the following dependencies
 * numpy
 * pandas
 * dicom
-* os
 * matplotlib pyplot
 * OpenCV
-* Skimage
+* Scikit image
 * scipy
 
 Run the commands
+
+* Installing pip
 ```
 $ sudo apt-get install python-pip python-dev build-essential 
 $ sudo pip install --upgrade pip 
 $ sudo pip install --upgrade virtualenv 
 ```
+* Installing dependencies 
+```
+$ pip install numpy
+$ pip install pandas
+$ pip install pydicom
+$ pip install matplotlib
+$ pip install scipy
+$ pip install scikit-image
+```
+* Installing Opencv using the tutorial given in https://docs.opencv.org/2.4/doc/tutorials/introduction/linux_install/linux_install.html
